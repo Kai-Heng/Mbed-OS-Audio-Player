@@ -1,0 +1,164 @@
+[
+    {
+        "module": "4bit_LCD.o",
+        "size": {
+            ".text": 412,
+            ".data": 0,
+            ".bss": 144,
+            ".text-delta": 412,
+            ".data-delta": 0,
+            ".bss-delta": 144
+        }
+    },
+    {
+        "module": "[lib]/c_w.l",
+        "size": {
+            ".text": 4276,
+            ".data": 16,
+            ".bss": 348,
+            ".text-delta": 4276,
+            ".data-delta": 16,
+            ".bss-delta": 348
+        }
+    },
+    {
+        "module": "[lib]/fz_wm.l",
+        "size": {
+            ".text": 1322,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 1322,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/libcpp_w.l",
+        "size": {
+            ".text": 1,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 1,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/libcppabi_w.l",
+        "size": {
+            ".text": 44,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 44,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "anon$$obj.o",
+        "size": {
+            ".text": 32,
+            ".data": 0,
+            ".bss": 1024,
+            ".text-delta": 32,
+            ".data-delta": 0,
+            ".bss-delta": 1024
+        }
+    },
+    {
+        "module": "main.o",
+        "size": {
+            ".text": 1780,
+            ".data": 2113,
+            ".bss": 970,
+            ".text-delta": 1780,
+            ".data-delta": 2113,
+            ".bss-delta": 970
+        }
+    },
+    {
+        "module": "mbed-os/cmsis",
+        "size": {
+            ".text": 10756,
+            ".data": 168,
+            ".bss": 6738,
+            ".text-delta": 10756,
+            ".data-delta": 168,
+            ".bss-delta": 6738
+        }
+    },
+    {
+        "module": "mbed-os/connectivity",
+        "size": {
+            ".text": 455,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 455,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/drivers",
+        "size": {
+            ".text": 2532,
+            ".data": 0,
+            ".bss": 1820,
+            ".text-delta": 2532,
+            ".data-delta": 0,
+            ".bss-delta": 1820
+        }
+    },
+    {
+        "module": "mbed-os/hal",
+        "size": {
+            ".text": 1496,
+            ".data": 4,
+            ".bss": 58,
+            ".text-delta": 1496,
+            ".data-delta": 4,
+            ".bss-delta": 58
+        }
+    },
+    {
+        "module": "mbed-os/platform",
+        "size": {
+            ".text": 7731,
+            ".data": 64,
+            ".bss": 344,
+            ".text-delta": 7731,
+            ".data-delta": 64,
+            ".bss-delta": 344
+        }
+    },
+    {
+        "module": "mbed-os/rtos",
+        "size": {
+            ".text": 1182,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 1182,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os/targets",
+        "size": {
+            ".text": 16384,
+            ".data": 8,
+            ".bss": 980,
+            ".text-delta": 16384,
+            ".data-delta": 8,
+            ".bss-delta": 980
+        }
+    },
+    {
+        "summary": {
+            "static_ram": 14799,
+            "static_ram_delta": 14799,
+            "total_flash": 50776,
+            "total_flash_delta": 50776
+        }
+    }
+]
